@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<officerInfo>
+<officer>
+    <uniqueID>2</uniqueID>
+    <name>John Anfernee Matthew R. De Guzman</name>
+    <age>21</age>
+    <studentID>2022100664</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>President</position>
+    <profilePicture>dp/1746365931_Jam.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>3</uniqueID>
+    <name>Grace S. Garces</name>
+    <age>20</age>
+    <studentID>2022100487</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>External Vice President</position>
+    <profilePicture>dp/1746365983_Garces.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>4</uniqueID>
+    <name>Christian D. Gantang</name>
+    <age>21</age>
+    <studentID>2022100628</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Internal Vice President</position>
+    <profilePicture>dp/1746366454_Cyrus.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>5</uniqueID>
+    <name>Miyuki Angel C. Ando</name>
+    <age>21</age>
+    <studentID>2022105277</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Recordkeeping Chairperson</position>
+    <profilePicture>dp/1746366494_Yuki.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>6</uniqueID>
+    <name>Karl Christian E. Arellano</name>
+    <age>21</age>
+    <studentID>2022105273</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Finance Chairperson</position>
+    <profilePicture>dp/1746366837_Arellano.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>7</uniqueID>
+    <name>Robert Jeriko S. Reyes</name>
+    <age>20</age>
+    <studentID>2022100482</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Auditing Chairperson</position>
+    <profilePicture>dp/1746366929_Reyes (Sorry Lester_p).JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>8</uniqueID>
+    <name>John Lester F. Sta. Ana</name>
+    <age>21</age>
+    <studentID>2022100665</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Public Relations Chairperson</position>
+    <profilePicture>dp/1746367040_Lester.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>9</uniqueID>
+    <name>Lance Louise M. Estrella</name>
+    <age>21</age>
+    <studentID>2022100662</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Membership Chairperson</position>
+    <profilePicture>dp/1746367191_Estrella.JPG</profilePicture>
+</officer>
+</officerInfo>
