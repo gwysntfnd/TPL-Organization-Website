@@ -9,7 +9,6 @@ This website highlights the officers list of the Techno Paragon League at Bulaca
 ## Features
 - Displays a list of officers with their names, positions, and photos.
 - If an officer does not have a photo uploaded, a default image is shown automatically.
-- Modern, clean, and visually appealing design using PHP and HTML.
 - Requires a local PHP server environment (localhost) to run, such as XAMPP, WAMP, MAMP, or LAMP.
 
 ## Usage
