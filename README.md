@@ -19,6 +19,10 @@ This website highlights the advisers and officers list of the Techno Paragons Le
 4. Access the website by navigating to `http://localhost/` or the appropriate directory in your browser.
 5. Use the admin credentials above to log in (if login feature is implemented).
 
+## Online Access
+
+- You can also view the website through this link: garcescict3ag2.byethost31.com
+
 ---
 
 This project is a PHP-based showcase of the organization's officers list with default images handled via PHP logic.
