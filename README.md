@@ -1,4 +1,4 @@
-# Bulacan State University Techno Paragon League Organization Website
+# Bulacan State University Techno Paragons League Organization Website
 
 This website highlights the officers list of the Techno Paragon League at Bulacan State University.
 
